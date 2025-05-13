@@ -1,3 +1,0 @@
-E:/Escritorio/programacion/C++/Blanchiniiland/cmake-build-debug/CMakeFiles/Blanchiniiland.dir
-E:/Escritorio/programacion/C++/Blanchiniiland/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Escritorio/programacion/C++/Blanchiniiland/cmake-build-debug/CMakeFiles/rebuild_cache.dir
